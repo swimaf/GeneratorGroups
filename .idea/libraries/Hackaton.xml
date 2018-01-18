@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hackaton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hackaton.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

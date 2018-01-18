@@ -1,0 +1,64 @@
+prenom ,nom,promo,specs 1,specs 2,specs 3,specs 4,Choix 1 défi,Choix 2 défi,Projet,Groupe
+Jérémy,Varesi,L3,prog web,C#,posé ,franc,1,2,1,1
+Nicolas,Serra,L3,prog web,PHP,Directif,Franc,1,2,1,1
+Dominique,Gaffory,M1,prog web,PHP,impatient,amusant,1,2,1,1
+Teva,Locandro,M2,prog web,PHP,directif,aimable,1,2,1,1
+Lisandru,Zamboni,L3,prog mobile,JAVA,franc,attentif,1,3,1,2
+Quentin,Pierotti,L3,prog web,PHP,curieux,posé,1,2,1,2
+Adama,Gassama,M1,prog mobile,C,Aimable ,curieuse,1,2,1,2
+David,ARAUJO,M2,prog système,C,attentif,franc,3,1,1,2
+Ange,Luvari,L3,prog web,PHP,curieux,franc,1,3,1,3
+Ange-Mathieu,Giudicelli,L3,prog mobile,JAVA,confiant,contemplatif,1,3,1,3
+Gregory,ERSA,M1,prog mobile,JAVA,ambitieux,accessible,1,3,1,3
+Mohamed,Hamid Mohamed,M2,prog web,PHP,curieux,posé,1,2,1,3
+Alexandre,BADOUX,L3,prog web,PHP,curieux ,imaginatif,1,2,1,4
+Kévin,Polini,L3,réseau,C,franc,aimable,1,2,1,4
+Wassim,Remmas,M1,prog web,PHP,impatient,imaginatif,1,2,1,4
+Imed,HAKIMI,M2,prog web,PHP,rigoureux,Polyvalent,1,2,1,4
+Clément,Chopin,L3,prog système,JAVA,amusant,franc ,1,2,1,5
+Stéphane,Lanfranchi,L3,prog web,JAVA,Aimable ,Attentif,1,2,1,5
+Mathieu,Poggioli,M1,prog mobile,Android,aimable,impatient,1,3,1,5
+Aloïs,BECK,M2,prog web,JS,franc,imaginatif,1,2,1,5
+Henry,Barontini,L3,,,,,,,1,13
+Alexandra,Pietri,M1,prog mobile,C#,sérieuse ,sociable,1,2,1,13
+Samir,ibayoussef,M1,,,,,,,1,13
+Yann,Conil,M2,prog système,Java,Curieux,posé,,,1,13
+Damien,Petetin,M1,Design,HTML,posé ,attentif,1,2,2,6
+Maxence,GUYONVARHO,M1,prog web,JS,Confiant,Attentif,2,1,2,6
+Loïc,Lastennet,M2,prog web,PHP,curieux,amusant,2,1,2,6
+Antoine,Frau,L3,prog mobile,JAVA,curieux,confient,2,1,2,6
+Baptiste,D'Arras,L3,Design,HTML,imaginatif,attentif,1,2,2,7
+Mohamed Lamine,SEFACENE,M1,prog web,JAVA,persévérant,motivé ,1,2,2,7
+Thomas,Bonnemayre,M2,prog web,PHP,curieux,impatient,2,1,2,7
+Marcu-Andria,Battesti,L3,base de données,PHP,Directif,confiant,2,1,2,7
+Alberto,Ndior,M1,prog web,PHP,posé,curieux,1,2,2,8
+stefanu,zamboni,M1,prog système,python,aimable,aimable,1,2,2,8
+Quentin,BAZAILLE,L3,prog système,JAVA,imaginatif,contemplatif,1,2,2,8
+François-Marie,Manicaci,M2,prog web,PHP,Franc,curieux,2,1,2,8
+Cedric,Brozzu,L3,,,,,,,2,9
+Julien,Moreira,L3,,,,,,,2,9
+Rachid,Chellaoui,M1,prog web,JS,aimable,confiant,1,2,2,9
+Enguerrand,Pagano,M2,base de données,PHP,Curieux ,impliqué,2,1,2,9
+Antoine,Dominici,M1,prog système,C,volubile,amusant ,3,2,2,10
+Etienne,Martinet,M1,prog mobile,JAVA,imaginatif,aimable,3,2,2,10
+Jean-Pierre,Jouault,M2,prog système,JS,imaginatif,confiant,2,1,2,10
+Sara,Touzani,M2,base de données,SQL,impatiente,curieuse,,,2,10
+Alexandre,MAMELI,L3,prog système,C,curieux ,contemplatif,3,1,2,11
+Camille,RUBIO,L3,prog système,JAVA,franche,amusante,1,3,2,11
+Norddine,Biernas,M1,base de données,PHP,imaginatif,amusant,3,2,2,11
+Nicolas,Poiron-Guidoni,M2,prog système,C,impatient,franc,3,1,2,11
+Alex,Caprile,L3,prog web,PHP,aimable,attentif,1,3,3,12
+Anthony,CAREDDU,L3,prog mobile,C#,aimable,posé,1,3,3,12
+Banoita,MERITO HOUMED,M1,prog mobile,JAVA,aimable,posé,1,3,3,12
+Frédéric,FABER CICCOLI,M2,prog web,C#,aimable,patient,3,2,3,12
+matthieu,vancayzeele,L3,prog système,C,posé,curieux,,,3,14
+Alexandre,Renaud,M1,prog web,Java,franc,aimable,,,3,14
+Julien,Hernandez,M1,prog web,JS,Attentif,Franc,1,2,3,14
+Thomas,Araujo,M2,prog système,Java,contemplatif,posé,2,1,3,14
+Christophe,Nasica,L3,prog mobile,JAVA,imaginatif,curieux,,,3,15
+Francois,Marchand,L3,,,,,,,3,15
+Frederic,Dumas,M1,prog web,PHP,amusant,attentif,1,2,3,15
+Robin,de Mari,M2,base de données,PHP,curieux,franc,2,1,3,15
+Paul-Antoine,Rousier,L3,,,,,,,3,16
+Jérémie,Elbaz,M2,prog web,PHP,curieux,posé,,,3,16
+Steaven,Geny,M2,prog web,PHP,contemplatif,Aimable,2,1,3,16
